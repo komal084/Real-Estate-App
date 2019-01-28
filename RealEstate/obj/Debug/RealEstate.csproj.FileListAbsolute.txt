@@ -1,0 +1,18 @@
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\bin\RealEstate.dll.config
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\bin\RealEstate.dll
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\bin\RealEstate.pdb
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\obj\Debug\RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\obj\Debug\RealEstate.dll
+C:\Users\User\Documents\GitHub\Real Estate\RealEstate\RealEstate\obj\Debug\RealEstate.pdb
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\bin\RealEstate.dll.config
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\bin\RealEstate.dll
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\bin\RealEstate.pdb
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\obj\Debug\RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\obj\Debug\RealEstate.dll
+C:\Users\User\Documents\GitHub\Real_Estate_AngularJS\RealEstate\obj\Debug\RealEstate.pdb
+C:\Users\User\Desktop\Code Project\RealEstate\bin\RealEstate.dll.config
+C:\Users\User\Desktop\Code Project\RealEstate\bin\RealEstate.dll
+C:\Users\User\Desktop\Code Project\RealEstate\bin\RealEstate.pdb
+C:\Users\User\Desktop\Code Project\RealEstate\obj\Debug\RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Code Project\RealEstate\obj\Debug\RealEstate.dll
+C:\Users\User\Desktop\Code Project\RealEstate\obj\Debug\RealEstate.pdb
